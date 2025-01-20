@@ -33,14 +33,14 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
 
 ## Example
 
-Caesar Cipher Program
-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? e
-Enter your message: hi how are you
-Enter the shift value (0-25): 20
-Encrypted message: bc biq uly sio
-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? d
-Enter your message: bc biq uly sio
-Enter the shift value (0-25): 20
-Decrypted message: hi how are you
-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? q
-Goodbye!
+-Caesar Cipher Program
+-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? e
+-Enter your message: hi how are you
+-Enter the shift value (0-25): 20
+-Encrypted message: bc biq uly sio
+-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? d
+-Enter your message: bc biq uly sio
+-Enter the shift value (0-25): 20
+-Decrypted message: hi how are you
+-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? q
+-Goodbye!

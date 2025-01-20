@@ -22,7 +22,6 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
    ```bash
    git clone https://github.com/yourusername/caesar-cipher.git
 
-
 ## Navigation To Project Directory
 
 -cd caesar-cipher
@@ -40,10 +39,17 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
 -Enter your message: hi how are you
 
 -Enter the shift value (0-25): 20
+
 -Encrypted message: bc biq uly sio
+
 -Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? d
+
 -Enter your message: bc biq uly sio
+
 -Enter the shift value (0-25): 20
+
 -Decrypted message: hi how are you
+
 -Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? q
+
 -Goodbye!

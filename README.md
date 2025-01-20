@@ -22,15 +22,15 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
    ```bash
    git clone https://github.com/yourusername/caesar-cipher.git
 
-### Navigation To Project Directory
+## Navigation To Project Directory
 
 -cd caesar-cipher
 
-### Run The Program
+## Run The Program
 
 -python caesar_cipher.py
 
-### Example
+## Example
 
 Caesar Cipher Program
 Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? e

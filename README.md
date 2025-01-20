@@ -32,6 +32,10 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
 
 ### Example
 
+-Suppose lets take "hi how are you " as the plane text  
+
+Encryption
+
 -Caesar Cipher Program
 
 -Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? e
@@ -41,6 +45,8 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
 -Enter the shift value (0-25): 20
 
 -Encrypted message: bc biq uly sio
+
+Decryption
 
 -Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? d
 

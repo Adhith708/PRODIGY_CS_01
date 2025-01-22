@@ -24,38 +24,14 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
 
 ### Navigation To Project Directory
 
--cd caesar-cipher
+- cd caesar-cipher
 
 ### Run The Program
 
--python caesar_cipher.py
+- python caesar_cipher.py
 
 ### Example
 
--Suppose lets take "hi how are you " as the plane text  
+- Suppose lets take "hi how are you " as the plane text  
 
-Encryption
-
--Caesar Cipher Program
-
--Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? e
-
--Enter your message: hi how are you
-
--Enter the shift value (0-25): 20
-
--Encrypted message: bc biq uly sio
-
-Decryption
-
--Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? d
-
--Enter your message: bc biq uly sio
-
--Enter the shift value (0-25): 20
-
--Decrypted message: hi how are you
-
--Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? q
-
--Goodbye!
+![Screenshot 2025-01-22 164313](https://github.com/user-attachments/assets/b931f9bb-b1cc-4863-899a-f633ff1a3349)

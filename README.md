@@ -20,7 +20,7 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher.git
+   git clone https://github.com/Adhith708/caesar-cipher.git
 
 ### Navigation To Project Directory
 

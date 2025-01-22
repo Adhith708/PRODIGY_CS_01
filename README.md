@@ -34,4 +34,4 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
 
 - Suppose lets take "hi how are you " as the plane text  
 
-![Screenshot 2025-01-22 164313](https://github.com/user-attachments/assets/b931f9bb-b1cc-4863-899a-f633ff1a3349)
+![Screenshot (73)](https://github.com/user-attachments/assets/c1b2d038-9b87-463c-aa22-08b1c83b304f)
